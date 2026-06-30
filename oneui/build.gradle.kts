@@ -70,6 +70,6 @@ android {
 }
 
 dependencies {
-    implementation(libs.appcompat)
-    implementation(libs.material)
+    api(libs.appcompat)
+    api(libs.material)
 }
